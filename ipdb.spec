@@ -4,7 +4,7 @@
 #
 Name     : ipdb
 Version  : 0.12.3
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/5c/01/27427b1f4a97455b345297a48761544bc8e7fb1f3aef6904ec86ddf75f65/ipdb-0.12.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5c/01/27427b1f4a97455b345297a48761544bc8e7fb1f3aef6904ec86ddf75f65/ipdb-0.12.3.tar.gz
 Summary  : IPython-enabled pdb
@@ -73,7 +73,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1575378863
+export SOURCE_DATE_EPOCH=1575554250
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
