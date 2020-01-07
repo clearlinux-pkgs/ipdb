@@ -4,7 +4,7 @@
 #
 Name     : ipdb
 Version  : 0.12.3
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/5c/01/27427b1f4a97455b345297a48761544bc8e7fb1f3aef6904ec86ddf75f65/ipdb-0.12.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5c/01/27427b1f4a97455b345297a48761544bc8e7fb1f3aef6904ec86ddf75f65/ipdb-0.12.3.tar.gz
 Summary  : IPython-enabled pdb
