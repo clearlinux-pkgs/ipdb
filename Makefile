@@ -1,5 +1,5 @@
 PKG_NAME := ipdb
-URL = https://files.pythonhosted.org/packages/a9/3d/9a7fa78cf59b95ac46663cfb760e63854dd66a267cda573c1a2f95f87c19/ipdb-0.13.7.tar.gz
+URL = https://files.pythonhosted.org/packages/5f/43/eb2be141dac56e502b6e35c1e4a9b1bbb2d4dcbec773c0f6563e79758909/ipdb-0.13.8.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
